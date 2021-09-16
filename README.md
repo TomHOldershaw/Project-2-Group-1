@@ -27,8 +27,8 @@ The final database was stored in a SQL database, using PostgreSQL
 ## Detailed description
 
 ## Working task list
-1. Download datasets and import to Pandas
+1. Download datasets and import to Pandas - Isha
 2. Data cleaning, drop duplicates, formatting etc
-3. Create country comparison table and insert index to tables
+3. Create country comparison table and insert index to tables - Tom
 4. Set up data merging and column selections
 5. Set up database and import routine
