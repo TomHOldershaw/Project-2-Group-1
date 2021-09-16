@@ -1,4 +1,4 @@
-,Country,Population,GDP_per_capita,Doses,pc_1_dose,pc_2_doses,Region
+,Country,Population,GDP_per_capita,Doses,pc_1_dose,pc_2_doses,World_region
 0,China,1440297825,10004.0,2129833000.0,,69.3,Asia
 1,India,1382345085,2116.0,730337116.0,40.3,12.4,Asia
 2,United States,331341050,65134.0,378569717.0,62.9,53.6,Americas
