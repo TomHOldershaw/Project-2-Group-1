@@ -2,9 +2,10 @@
 CREATE TABLE Vaccination_Record (
   country VARCHAR(30) NOT NULL,
   Population INT,
+  GDP_per_capita DEC,
   Doses INT,
-  Pc_1_Dose DEC,
-  Pc_2_Doses DEC,
+  pc_1_Dose DEC,
+  pc_2_Doses DEC,
   World_region VARCHAR
 );
 
