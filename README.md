@@ -12,12 +12,11 @@ We decided to look at the number of covid vaccinations by country, with data on 
 More details are given below. Data was cleaned and merged to produce a single table consisting of the following columns:
 1. Country name
 2. Population
-3. GDP total
-4. GDP per capita
-5. Number of vaccinations
-6. % of population vaccinated (1 dose)
-7. % of population vaccinated (2 doses)
-8. Region
+3. GDP per capita
+4. Number of vaccinations
+5. % of population vaccinated (1 dose)
+6. % of population vaccinated (2 doses)
+7. Region
 
 ### Data storage
 The final database was stored in a SQL database, using PostgreSQL
