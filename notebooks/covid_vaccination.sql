@@ -1,12 +1,11 @@
 -- Create a new table
 CREATE TABLE Vaccination_Record (
-  Index Int,
-  country VARCHAR NOT NULL,
-  Population DEC,
+  Country VARCHAR NOT NULL primary key,
+  Population INT,
   GDP_per_capita DEC,
   Doses DEC,
-  pc_1_Dose DEC,
-  pc_2_Doses DEC,
+  pc_1_dose DEC,
+  pc_2_doses DEC,
   World_region VARCHAR
 );
 
