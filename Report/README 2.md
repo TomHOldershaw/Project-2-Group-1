@@ -8,14 +8,14 @@ https://www.kaggle.com/kamal007/global-covid19-vaccination
 https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
 
 Data was extracted from Kaggle.com, were the team agreed to go with the following Data sets.
-•	Covid vaccination numbers
-•	GDP per Capita
-•	Population numbers
+- Covid vaccination numbers
+- GDP per Capita
+- Population numbers
 
 Tools
-•	Excel
-•	Pandas
-•	SQL Postgres
+- Excel
+- Pandas
+- SQL Postgres
 
 ## Data Import and Cleaning
 After downloading the data sets from Kaggle, Isha, imported these Data sets into pandas, which was read, as a team we discussed some of the flaws of these data set, and realised some data sets has multiple columns for the same type of data from different sources there were some NAN Values within the data sets, some columns had more NaN values than others, that needed to be dropped.
