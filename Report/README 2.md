@@ -3,12 +3,12 @@
 ## Goal
 The team goal was to look at COVID-19 vaccinations in relations to countries of the world populations and their GDP percapita.
 
-Data Extraction 
-https://www.kaggle.com/kamal007/global-covid19-vaccination
-https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020
+Data Extraction  
+https://www.kaggle.com/kamal007/global-covid19-vaccination  
+https://www.kaggle.com/eng0mohamed0nabil/population-by-country-2020  
 
 Data was extracted from Kaggle.com, were the team agreed to go with the following Data sets.
-- Covid vaccination numbers
+- Covid vaccination numbers 
 - GDP per Capita
 - Population numbers
 
