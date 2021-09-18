@@ -19,15 +19,13 @@ More details are given below. Data was cleaned and merged to produce a single ta
 7. Region
 
 ### Data storage
-The final database was stored in a SQL database, using PostgreSQL
+The final database was stored in a SQL database, using PostgreSQL. The data was loaded manually once exported from Jupyter.
 
 ### Final comments
-
-## Detailed description
+The data was processed and uploaded to the database. It was found that there were some null values in the dataset, but these reflect the incomplete nature of the data rather than errors in data collection and data processing, and so have been left.
 
 ## Working task list
-1. Download datasets and import to Pandas - Isha
-2. Data cleaning, drop duplicates, formatting etc
-3. Create country comparison table and insert index to tables - Tom
-4. Set up data merging and column selections
-5. Set up database and import routine
+1. Data import - Isha
+2. Data merging - Tom
+3. Database - Choki
+4. Report - ??Belinda??
