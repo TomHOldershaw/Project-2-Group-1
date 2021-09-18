@@ -30,6 +30,7 @@ Tom headed the Data Manipulation by merging the three sets of data frames for th
 5. % of population vaccinated (1 dose)
 6. % of population vaccinated (2 doses)
 7. Region
+
 The final data frame head looked like below:![finaldf](https://user-images.githubusercontent.com/85182090/133910713-d7cfb486-301d-48dd-b1ae-abcb3228c06f.JPG)
 
 
