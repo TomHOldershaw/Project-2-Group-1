@@ -1,5 +1,6 @@
 -- Create a new table
 CREATE TABLE Vaccination_Record (
+  Index Int Primary key,
   country VARCHAR(30) NOT NULL,
   Population INT,
   GDP_per_capita DEC,
