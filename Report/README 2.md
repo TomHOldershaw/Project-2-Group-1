@@ -1,5 +1,6 @@
-                                     #Project2-Group1
-Goal
+# Project2-Group1
+
+## Goal
 The team goal was to look at COVID-19 vaccinations in relations to countries of the world populations and their GDP percapita.
 
 Data Extraction 
@@ -14,11 +15,13 @@ Tools
 •	Excel
 •	Pandas
 •	SQL Postgres
-Data Import and Cleaning
+
+## Data Import and Cleaning
 After downloading the data sets from Kaggle, Isha, imported these Data sets into pandas, which was read, as a team we discussed some of the flaws of these data set, and realised some data sets has multiple columns for the same type of data from different sources there were some NAN Values within the data sets, some columns had more NaN values than others, that needed to be dropped.
 
-Data Merging
+## Data Merging
 Tom headed the Data Manipulation by merging the three sets of data frames for the team to achieve the Final data sets as we had discussed previously in the README File, On the Data transformation Section as follows.  A correspondence spreadsheet was used to match the countries names between the data sets.
+
 1. Country name
 2. Population
 3. GDP per capita
@@ -27,9 +30,9 @@ Tom headed the Data Manipulation by merging the three sets of data frames for th
 6. % of population vaccinated (2 doses)
 7. Region
 
-Database Loading
+## Database Loading
 After achieving the data transformation to suit our goal, Choki led the creation of the database base, were as a team we had agreed to go with SQL Postgres.
 
-Report Writing
+## Report Writing
 Belinda headed the report writing for the team, here we had to chronologically outline the steps, actions, tools, and decisions we took to attain out project objectives.
 
