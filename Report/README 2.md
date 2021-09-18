@@ -11,6 +11,7 @@ Data was extracted from Kaggle.com, were the team agreed to go with the followin
 •	Covid vaccination numbers
 •	GDP per Capita
 •	Population numbers
+
 Tools
 •	Excel
 •	Pandas
