@@ -32,7 +32,7 @@ Tom headed the Data Manipulation by merging the three sets of data frames for th
 7. Region
 
 ## Database Loading
-After achieving the data transformation to suit our goal, Choki led the creation of the database base, were as a team we had agreed to go with SQL Postgres.
+After achieving the data transformation to suit our goal, Choki led the creation of the database base, were as a team we had agreed to go with SQL Postgres.First a schema was done which was to create a table named Covid Vaccination report. To import Data into the SQL Database, we used Postgres SQL import csv file. We also used pandas to update the table.
 
 ## Report Writing
 Belinda headed the report writing for the team, here we had to chronologically outline the steps, actions, tools, and decisions we took to attain out project objectives.
